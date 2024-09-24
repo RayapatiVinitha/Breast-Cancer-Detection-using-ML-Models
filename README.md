@@ -1,7 +1,5 @@
 # Breast-Cancer-Detection-using-ML-Models
 This project aims to develop a machine learning model to detect breast cancer using diagnostic data. It leverages various ML algorithms such as Logistic Regression, Decision Trees, and Random Forest to classify tumors as benign or malignant
-# Breast Cancer Detection
-
 ## Overview
 
 This project is designed to develop and evaluate various machine learning models for detecting breast cancer. The primary objective is to build a reliable model that can assist healthcare professionals in diagnosing breast cancer early, thereby improving patient outcomes.
